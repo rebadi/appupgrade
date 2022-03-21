@@ -7,7 +7,8 @@
         <description>desc Версия</description>
         <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
         <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="2.0" sparkle:os="android" />
-        <sparkle:minimumSystemVersion>0.0.6</sparkle:minimumSystemVersion>
+        <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
+        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
 
   </channel>
